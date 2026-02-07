@@ -8,7 +8,7 @@
   </div>
 
   <h3 align="center">Stunning GSAP Cocktail Website</h3>
-    <h3 align="center">live demo: https://velvetpourdrink.netlify.app//h3>
+    <h3 align="center">live demo: https://velvetpourdrink.netlify.app/</h3>
   
 
   
