@@ -1,8 +1,8 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=AW1yfBKRMKc" target="_blank">
-      <img src="public/readme/hero.png" alt="Project Banner">
-    </a>
+    
+     <img src="public/readme/hero.png" alt="Project Banner">
+    
   <br />
 
    <div>
@@ -58,9 +58,3 @@ Build and deploy a stunning GSAP-powered cocktail website using React and Tailwi
 
 
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsm.dev/cocktail-nextjs" target="_blank">
-  <img src="public/readme/jsmpro.png" alt="Project Banner">
-</a>
